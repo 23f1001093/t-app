@@ -1,0 +1,8 @@
+websockets
+openai
+whisper
+numpy
+soundfile
+python-dotenv
+google-cloud-texttospeech
+openai-whisper
