@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafd;
+  padding: 2em;
+}
+button {
+  padding: 1em 2em;
+  margin-right: 1em;
+  font-size: 1em;
+}
+#status {
+  margin-top: 1em;
+  font-weight: bold;
+  color: #444;
+}
+#transcript {
+  margin-top: 2em;
+  background: #eef;
+  padding: 1em;
+  border-radius: 5px;
+}
